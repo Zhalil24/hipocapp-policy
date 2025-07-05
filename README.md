@@ -1,89 +1,99 @@
-📱 Hipocapp Mobil Uygulama Gizlilik Politikası
-Sürüm: 26 Aralık 2024
-Son Güncelleme: 3 Temmuz 2025
+# 📱 Hipocappv2 Mobil Uygulama Gizlilik Politikası
 
-Hipocapp uygulamasını kullandığınız için teşekkür ederiz. Kullanıcı gizliliği bizim için büyük önem taşımaktadır. Bu Gizlilik Politikası, uygulama kapsamında toplanan verilerin nasıl işlendiğini, saklandığını ve korunduğunu açıklar.
+**Sürüm:** Hipocappv2  
+**Son Güncelleme:** 2. Sürüm
 
-🔍 1. Toplanan Veriler
-1.1. Kullanıcı Tarafından Sağlanan Veriler
-Ad ve soyad
+Hipocappv2 uygulamasını kullandığınız için teşekkür ederiz. Kullanıcı gizliliği bizim için büyük önem taşımaktadır. Bu Gizlilik Politikası, uygulama kapsamında toplanan kişisel verilerin nasıl işlendiğini, saklandığını ve korunduğunu açıklar.
 
-E-posta adresi
+---
 
-Telefon numarası (isteğe bağlı)
+## 🔍 1. Toplanan Veriler
 
-Profil fotoğrafı (isteğe bağlı)
+### 1.1. Kullanıcı Tarafından Sağlanan Veriler
+- Ad ve soyad  
+- E-posta adresi  
+- Telefon numarası (isteğe bağlı)  
+- Profil fotoğrafı (isteğe bağlı)
 
-1.2. Otomatik Toplanan Veriler
+### 1.2. İzinle Erişim Sağlanan Veriler
+- Kamera ve galeri erişimi (yalnızca kullanıcı açıkça izin verdiğinde)
 
-Uygulama kullanım verileri (ekran görüntüleme, kullanım süresi)
+> Not: Uygulama içerisinde analiz, ekran görüntüleme ya da kampanya takibi yapılmamaktadır.
 
-1.3. SDK ve Analitik Verileri
-Uygulama içi etkinlik verileri
+---
 
-(Varsa) Blesh SDK ile kampanya gösterimi ve kullanıcı tepkileri
+## 🎯 2. Veri Kullanım Amaçları
 
-Albüm/kamera erişimi (yalnızca kullanıcı izni varsa)
+Toplanan veriler aşağıdaki amaçlarla kullanılır:
+- Hizmetin sağlanması ve uygulamanın çalışması  
+- Kullanıcı hesabının oluşturulması ve kimlik doğrulama  
+- Güvenlik ve kötüye kullanımın önlenmesi  
+- Yasal yükümlülüklerin yerine getirilmesi
 
-🎯 2. Veri Kullanım Amaçları
-Hizmetin sağlanması ve yönetimi
+---
 
-Kullanıcı hesabının tanımlanması ve yetkilendirme
+## 🤝 3. Verilerin Paylaşımı
 
-Bildirim gönderimi ve kampanya takibi
+- Verileriniz, **izin alınmadan üçüncü taraflarla satılmaz veya kiralanmaz.**  
+- Hizmet sağlayıcılarla (örneğin barındırma hizmeti) **yalnızca hizmetin çalışması için gereken durumlarda paylaşılır.**  
+- Yalnızca **anonimleştirilmiş** veriler üçüncü taraflarla paylaşılabilir.  
+- Yasal talepler (mahkeme, savcılık vb.) veya birleşme/devralma gibi durumlarda paylaşım yapılabilir.
 
-Kullanıcı deneyiminin iyileştirilmesi
+---
 
-Yasal yükümlülüklerin yerine getirilmesi
+## 🌍 4. Veri Saklama Lokasyonları
 
-Güvenlik ve kötüye kullanımı önleme
+Kullanıcı verileri Türkiye, Hollanda, İrlanda ve ABD’deki güvenli sunucularda saklanabilir.  
+Veri aktarımı KVKK ve GDPR düzenlemelerine uygun olarak gerçekleştirilir.
 
-🤝 3. Verilerin Paylaşımı
-Veriler, izin alınmadan üçüncü taraflara satılmaz veya kiralanmaz.
+---
 
-Hizmet sağlayıcılarla (barındırma, analiz, ödeme) sadece gerekli durumlarda paylaşılır.
+## 🔐 5. Güvenlik Önlemleri
 
-Yalnızca anonim istatistiksel veriler üçüncü taraflarla paylaşılabilir.
+Verilerinizi korumak için alınan başlıca önlemler:
+- SSL/TLS şifreleme  
+- Güvenlik duvarları ve erişim kontrol sistemleri  
+- Şifreli veri depolama  
+- Yetkisiz erişimi engellemek için teknik ve idari tedbirler
 
-Yasal talepler, birleşme/devralma gibi durumlarda aktarım yapılabilir.
+Ancak unutmayın: İnternet üzerinden iletilen hiçbir veri %100 güvenli değildir.
 
-🌍 4. Veri Saklama Lokasyonları
-Veriler; Türkiye, Hollanda, İrlanda ve ABD’deki güvenli sunucularda saklanabilir.
+---
 
-Uluslararası veri aktarımı, KVKK ve GDPR ilkelerine uygun şekilde yapılır.
+## 🚫 6. Çocukların Gizliliği
 
-🔐 5. Güvenlik Önlemleri
-SSL/TLS şifreleme
+Hipocappv2, **13 yaşın altındaki çocuklar için tasarlanmamıştır.**  
+Bilinçli olarak bu yaş grubundan kişisel veri toplanmaz.  
+Bir ebeveyn, çocuğunun verilerinin toplandığını düşünüyorsa, bizimle iletişime geçebilir.
 
-Güvenlik duvarları
+---
 
-Erişim kontrol sistemleri
+## 👁️‍🗨️ 7. Haklarınız
 
-Şifreli veri depolama
-Veri güvenliği için tüm teknik ve idari önlemler alınmakta olup mutlak güvenlik garanti edilemez.
+- Verilerinize erişme  
+- Düzeltme veya silme talebinde bulunma  
+- İtiraz etme veya kısıtlama talep etme haklarına sahipsiniz.
 
-🚫 6. Çocukların Gizliliği
-Uygulama, 13 yaş altı çocuklara yönelik değildir.
+Bu hakları kullanmak için bizimle e-posta yoluyla iletişime geçebilirsiniz:
 
-Çocuklardan bilerek veri toplanmaz.
+📧 **hipocappdestek@gmail.com**
 
-👁️‍🗨️ 7. Haklarınız
-Verilerinize erişim, düzeltme ve silme taleplerinizi iletebilirsiniz.
+---
 
-Haklarınızı kullanmak için aşağıdaki e-posta adresi ile bizimle iletişime geçebilirsiniz.
+## 📆 8. Politika Güncellemeleri
 
-📧 hipocappdestek@gmail.com
+Bu gizlilik politikası zaman zaman güncellenebilir.  
+Güncellenen hali GitHub sayfasında ve/veya uygulama içinde yayımlanır.  
+Uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
 
-📆 8. Politika Güncellemeleri
-Gizlilik politikası zaman zaman güncellenebilir.
+---
 
-Güncellemeleri takip etmek kullanıcı sorumluluğundadır.
+## 📨 9. İletişim
 
-Uygulamayı kullanmaya devam etmeniz, güncellemeleri kabul ettiğiniz anlamına gelir.
+Herhangi bir soru, öneri veya gizlilik talebi için bize ulaşabilirsiniz:
 
-📨 9. İletişim
-Herhangi bir sorunuz, öneriniz ya da veri talebiniz için bize ulaşın:
+📧 **hipocappdestek@gmail.com**
 
-📧 hipocappdestek@gmail.com
+---
 
-Bu politika 3 Temmuz 2025 tarihinde güncellenmiştir.
+📌 **Bu politika 2. sürümde güncellenmiştir.**
